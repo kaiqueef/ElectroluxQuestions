@@ -2,7 +2,7 @@
 //  *  Author: Kaique Ferreira
 //  */
 /**
- *  QUESTION 2: Imagine a situation where you have a circuit able to activate and deactivate a purely resistive load
+ *  QUESTION 1: Imagine a situation where you have a circuit able to activate and deactivate a purely resistive load
     with a microcontroller. It is required to control the load power over time depending on the situation
     and the power cannot be instantly changed from 0% to 100%. Explain in simple words a method
     to achieve such effect, looking at both hardware and firmware aspects of the system. If an
